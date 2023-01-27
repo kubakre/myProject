@@ -15,3 +15,5 @@ if __name__ == '__main__':
         vs = random.randint(0,90)
         ser.write(str(vs).encode('utf-8'))
         time.sleep(30000)
+        
+        #something
